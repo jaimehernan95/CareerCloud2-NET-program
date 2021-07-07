@@ -27,6 +27,8 @@ In this assignment you will create class structures that represent database tabl
 ## File Structure
 
 Within the download you'll find the following directories and files:
+```
+.
 
 ├── CareerCloud2
 ├── README.md
@@ -101,8 +103,3 @@ Within the download you'll find the following directories and files:
 │   ├──SecurityRolePoco.cs
 │   ├──SystemCountryCodePoco.cs
 │   ├──CareerCloud.Pocos.csproj
-│   ├──IPoco.cs
-bin
-obj
-packages
-TestResults
