@@ -1,0 +1,4 @@
+C:\Users\JAC\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\JAC\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\JAC\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\JAC\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache

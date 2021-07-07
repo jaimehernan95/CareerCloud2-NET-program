@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffCrylQMiwZNTH3kl5ac+//065l7ZPCnfU1hAwGX1XzxscqwDhWYpDcb75aBLZadIrAqCEiie/RjVMFMjCE8xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JAC\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.0.0\\microsoft.extensions.configuration.fileextensions.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.0.0\\microsoft.extensions.configuration.json.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.0.0\\microsoft.extensions.fileproviders.physical.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.0.0\\microsoft.extensions.filesystemglobbing.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZd0m0yZobgfBKyZrSe9tkCeSrjdIMBb/1tHqHnwSiG7r93H1bY07/38nW2Y1976a7Z8T+6wKvQXwPr3OlJtcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JAC\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\JAC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
